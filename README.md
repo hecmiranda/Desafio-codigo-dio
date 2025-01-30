@@ -37,10 +37,8 @@
   ![image](https://github.com/user-attachments/assets/2fd84243-d559-4fad-b3f6-4195c68c9a4e)
   
 * Resultados:
-  Não era mais possível conseguir os dados do usuário.
-
-![image](https://github.com/user-attachments/assets/fae1a719-4d05-4384-a27b-329630e564a2)
-
+  
+![image](https://github.com/user-attachments/assets/b2ef40a8-164f-4911-9089-cd74138383ce)
 
 
 
