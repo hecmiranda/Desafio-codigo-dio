@@ -22,16 +22,18 @@
 
 * Método de ataque: `Credential Harvester Attack Method`
 
-![image](https://github.com/user-attachments/assets/cefd4914-23d4-41ce-bae1-98097887bf56)
+  ![image](https://github.com/user-attachments/assets/cefd4914-23d4-41ce-bae1-98097887bf56)
   
 * Método de ataque: `Site Cloner`
 
-![image](https://github.com/user-attachments/assets/831cc1c0-31d8-4e6a-b298-9651b88da6af)
+  ![image](https://github.com/user-attachments/assets/831cc1c0-31d8-4e6a-b298-9651b88da6af)
   
 * Obtendo o endereço da máquina: `ifconfig`
 
-![image](https://github.com/user-attachments/assets/d14933f9-ddf9-457c-8faa-3f60da05ecd0)
+  ![image](https://github.com/user-attachments/assets/d14933f9-ddf9-457c-8faa-3f60da05ecd0)
   
 * URL para clone: `http://www.facebook.com`
+
+  
   
 * Resutados:
